@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yagoporto/yagoporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![roadmap.sh](https://roadmap.sh/card/tall/66e224c812af4935a0a76152?variant=dark)](https://roadmap.sh)
